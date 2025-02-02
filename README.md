@@ -91,13 +91,3 @@ npm install -g allure-commandline
 ```
 
 ---
-
-## 📜 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır.
-
----
-
-## 👨‍💻 Katkıda Bulunma
-Her türlü geri bildirime ve katkıya açığız! Lütfen PR oluşturmadan önce bir **issue** açarak tartışmaya katılın.
-
-📩 İletişim: [GitHub Issues](https://github.com/metehancill/Qe-MoneyTransfer-Project/issues) üzerinden bize ulaşabilirsiniz.
